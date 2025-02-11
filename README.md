@@ -13,3 +13,5 @@ PHP;
 MySQL (para armazenamento de dados);
 HTML5 & CSS;
 JavaScript (para interatividade);
+
+[Assista no YouTube a demonstração da LojaOnline](https://youtu.be/lIicH5v76tY)
