@@ -97,7 +97,7 @@ CREATE TABLE `utilizadores` (
 --
 
 INSERT INTO `utilizadores` (`idutilizadores`, `email`, `senha`) VALUES
-(1, 'lucianadacruz.unicv@gmail.com', 'Luciana1997$$');
+(1, 'lucianadacruz.unicv@gmail.com', 'Luciana$$');
 
 --
 -- Índices para tabelas despejadas
